@@ -20,7 +20,7 @@
 
 ## *Jornada de Usuário*  
 
-![Jornada de usuário para a funcionalidade login. Capturas das telas de login e home page, além da representação da API logon.](jornadaDeUsuarioLogin.png)
+![Jornada de usuário para a funcionalidade login. Capturas das telas de login e home page, além da representação da API logon.](jornadaDeUsuarioLogin.PNG)
 
 ## *Algumas ideias abordadas*
 
